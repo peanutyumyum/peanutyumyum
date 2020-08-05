@@ -13,8 +13,8 @@ Now I'm study Django which is based on python, and interest in AI, algorithm.
   </div>
 </detail>
 <br>
-<p><b>활동이력</b></p>
 
+## work experience
 ><ul>
   >  <li>멋쟁이 사자처럼 at 한양대학교|ERICA 8기 (2020.03~2020.12)</li>
 ></ul>
@@ -25,8 +25,3 @@ Now I'm study Django which is based on python, and interest in AI, algorithm.
 - HTML,CSS,JS
 - Django
 - Git
-
-<br><br>
-
-<div align=center>
-  [![Instagram Badge]https://img.shields.io/badge/-Instagram-dd2a7b?style=for-the-badge&logo=appveyor?logo=instargram?link=https://www.instagram.com/psychedeliq_j/)](https://www.instagram.com/psychedeliq_j/)
