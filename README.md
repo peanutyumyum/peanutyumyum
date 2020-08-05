@@ -7,6 +7,7 @@
   I have been a lot of interest in coding since I worked as a LikeLion which is a coding education program, and I'm became to study coding. <br>
   Now I'm study Django which is based on python, and interest in AI, algorithm.
 </div>
+<br>
 <div>
   한국어 <br>
   👋 안녕하세요. 저는 한양대학교 에리카 캠퍼스에서 경영을 전공하고 있는 대학생입니다. <br>
