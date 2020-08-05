@@ -28,5 +28,5 @@ Now I'm study Django which is based on python, and interest in AI, algorithm.
   <img height="30" src="https://user-images.githubusercontent.com/63117632/89460344-192a4e00-d7a5-11ea-8dcf-959f3ce593d6.png">
   <img height="30" src="https://user-images.githubusercontent.com/63117632/89460360-1e879880-d7a5-11ea-8676-9968340c77ad.png">
   <img height="30" src="https://user-images.githubusercontent.com/63117632/89460372-21828900-d7a5-11ea-8471-4fab42473214.png">
-  <img height="30" src="https://user-images.githubusercontent.com/63117632/89460387-29dac400-d7a5-11ea-8789-d33b50f0758d.png">
-  <img height="30" src="https://user-images.githubusercontent.com/63117632/89460395-2d6e4b00-d7a5-11ea-8d23-7578879bc571.png">
+  <img height="30" src="https://user-images.githubusercontent.com/63117632/89460886-06644900-d7a6-11ea-8f2d-ceec42e8462c.png">
+  <img height="30" src="https://user-images.githubusercontent.com/63117632/89460975-272c9e80-d7a6-11ea-9ef5-5daf6d21f8d0.png">
