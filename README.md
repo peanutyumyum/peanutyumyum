@@ -37,6 +37,9 @@
   <img height="30" src="https://user-images.githubusercontent.com/63117632/89460886-06644900-d7a6-11ea-8f2d-ceec42e8462c.png">
   <img height="30" src="https://user-images.githubusercontent.com/63117632/89461910-9a82e000-d7a7-11ea-8113-799985045f2c.png">
   <img height="30" src="https://user-images.githubusercontent.com/63117632/89460975-272c9e80-d7a6-11ea-9ef5-5daf6d21f8d0.png">
-  
+</div>
+<br>
+<div>
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=peanutyumyum&show_icons=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peanutyumyum&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
