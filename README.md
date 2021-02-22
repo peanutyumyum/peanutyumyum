@@ -27,6 +27,7 @@
 ## Languages and Tools
 
 - C
+- Java
 - Python
 - HTML,CSS,JS
 - Django
@@ -34,7 +35,8 @@
 - Git
 
 <div>
-  <img height="30" src=https://user-images.githubusercontent.com/63117632/107517758-7fc77300-6bf1-11eb-805a-22f3b509e631.png>
+  <img height="30" src="https://user-images.githubusercontent.com/63117632/107517758-7fc77300-6bf1-11eb-805a-22f3b509e631.png">
+  <img height="30" src="https://user-images.githubusercontent.com/63117632/108722316-5cdc7d80-7566-11eb-95f5-5168e2e3633d.png">
   <img height="30" src="https://user-images.githubusercontent.com/63117632/89460344-192a4e00-d7a5-11ea-8dcf-959f3ce593d6.png">
   <img height="30" src="https://user-images.githubusercontent.com/63117632/89460360-1e879880-d7a5-11ea-8676-9968340c77ad.png">
   <img height="30" src="https://user-images.githubusercontent.com/63117632/89460372-21828900-d7a5-11ea-8471-4fab42473214.png">
