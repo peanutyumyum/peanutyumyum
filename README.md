@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpeanutyumyum)](https://hits.seeyoufarm.com)<br>
 <div>
   English <br>
-  Hello, I am a student who major in business management and software at Hanyang university, ERICA.👋 <br>
+  Hello, I am a student who major in business management and computer science at Hanyang university, ERICA.👋 <br>
   I have been a lot of interest in coding since I worked as a LikeLion which is a coding education program, and I'm became to study coding. <br>
   Now I can use Django which is based on Python, and also interest in AI and security.
 </div>
